@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="list_of_places"  translatable="false" >
+    <item>@string/array_location1</item>
+    <item>@string/array_location2</item>
+    <item>@string/array_location3</item>
+    <item>@string/array_location4</item>
+    <item>@string/array_location5</item>
+    <item>@string/array_location6</item>
+        <item>@string/array_location7</item>
+        <item>@string/array_location8</item>
+        <item>@string/array_location9</item>
+    </string-array>
+</resources>

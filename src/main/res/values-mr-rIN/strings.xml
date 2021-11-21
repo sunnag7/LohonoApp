@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">लोहोनो</string>
+    <string name="first_fragment_label" translatable="false">"पहिला फ्रॅगमेंट "</string>
+    <string name="second_fragment_label" translatable="false">"दुसरा फ्रॅगमेंट "</string>
+    <string name="next" translatable="false">पुढे</string>
+    <string name="previous" translatable="false">मागील</string>
+    <string name="hello_first_fragment" translatable="false">"नमस्कार पहिला फ्रॅगमेंट "</string>
+    <string name="hello_second_fragment" translatable="false">"नमस्कार दुसरा फ्रॅगमेंट "</string>
+    <string name="title_activity_search" translatable="false">"शेअरचं ऍक्टिव्हिटी "</string>
+    <string name="action_settings" translatable="false">"सेटीन्ग्स "</string>
+    <string name="array_location1" translatable="false">गोआ</string>
+    <string name="array_location2" translatable="false">अलिबाऊग</string>
+    <string name="array_location3" translatable="false">"कर्जत "</string>
+    <string name="array_location4" translatable="false">लोणावळा</string>
+    <string name="array_location5" translatable="false">महाबळेश्वर</string>
+    <string name="array_location6" translatable="false">"मुसुरी "</string>
+    <string name="array_location7" translatable="false">"बाली "</string>
+    <string name="array_location8" translatable="false">"कोह  सामुई "</string>
+    <string name="array_location9" translatable="false">"फूकेट "</string>
+    <string name="search_city" translatable="false">"सेअरच सिटी "</string>
+    <string name="Switch_Language" translatable="false">इंग्लिश</string>
+    <string name="switched_language" translatable="false">"मराठी "</string>
+</resources>
